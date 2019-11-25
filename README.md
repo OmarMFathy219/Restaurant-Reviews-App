@@ -1,12 +1,9 @@
 # Restaurant Review App
 
-Offline capable app for local restaurants reviews/information
+front-end code for a static Restaurant Reviews App, revise the site to be responsive and achieve accessibility standards.
 
-Student Project #6 during Google Front-End Development Nanodegree Program at Udacity
+-  Using Google Maps
 
-## Installation/Getting Started
+-  Implement accessibility features in the site HTML like tabindex etc...
 
-* Clone the project from Github
-* Run server via terminal with "$ python -m http.server"
-* Navigate to localhost 
-
+-  Add a ServiceWorker script to cache requests to all of the site’s assets (so that any page that has been visited by a user will be accessible when the user is offline).
